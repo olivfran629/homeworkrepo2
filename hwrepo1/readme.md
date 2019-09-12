@@ -1,0 +1,1 @@
+Readme file for first repository to be submitted for week 3 homework assignments. 
